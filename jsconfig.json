@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		// Indica donde esta el baseUrl
+		"baseUrl": "src",
+		// Indica donde estan los archivos de configuracion
+		"paths": {
+			"@pages": ["pages/"]
+		}
+	}
+}
